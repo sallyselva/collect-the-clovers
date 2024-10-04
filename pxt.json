@@ -1,5 +1,6 @@
 {
     "name": "Collect the Clovers",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
